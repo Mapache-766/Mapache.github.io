@@ -1,0 +1,16 @@
+.texto {
+  font-family: cursive;
+  color: #ffffff;
+  position: relative;
+  z-index: 1;
+}
+
+button {
+  font-family: cursive;
+  background-color: #4CAF50;
+  color: #ffffff; 
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
